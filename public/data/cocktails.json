@@ -1,0 +1,77 @@
+{
+   "cocktails":
+   [
+      {
+      "name" : "ICE PICK",
+      "img" : "ice-pick",
+      "alcohol" : ["VODKA"],
+      "others" : ["ICE TEA","LEMON SEGMENT","3xICE CUBES"]
+      },
+      {
+      "name" : "MINT JULEP",
+      "img" : "mint-julep",
+      "alcohol" : ["BOURBON / WHISKEY"],
+      "others" : ["4xMINT LEAF","TSP BROWN SUGAR","4xCRUSHED ICE CUBES"]
+      },
+      {
+      "name" : "TEQUILA SUNRISE",
+      "img" : "tequilasunrise",
+      "alcohol" : ["TEQUILA"],
+      "others" : ["ORANGE JUICE","GRENADINE"]
+      },
+      {
+      "name" : "ZOMBIE",
+      "img" : "zombie",
+      "alcohol" : ["VODKA","RUM"],
+      "others" : ["PINEAPPLE JUICE","ORANGE JUICE","APRICOT BRANDY"]
+      },
+      {
+      "name" : "SCREW DRIVER",
+      "img" : "screw-driver",
+      "alcohol" : ["VODKA"],
+      "others" : ["ORANGE JUICE","2xICE CUBES"]
+      },
+      {
+      "name" : "BLOODY MARY",
+      "img" : "bloody-mary",
+      "alcohol" : ["VODKA"],
+      "others" : ["TOMATO JUICE","DASH WORCESTSHIRE SAUCE","CELERY STICK","2xICE CUBES"]
+      },
+      {
+      "name" : "GIN & TONIC",
+      "img" : "gin-tonic",
+      "alcohol" : ["GIN"],
+      "others" : ["TONIC","2xICE CUBES"]
+      },
+      {
+      "name" : "MARGARITA",
+      "img" : "margarita",
+      "alcohol" : ["TEQUILA"],
+      "others" : ["LIME JUICE","TRIPLE SEC"]
+      },
+      {
+      "name" : "WHITE RUSSIAN",
+      "img" : "white-russian",
+      "alcohol" : ["VODKA"],
+      "others" : ["KAHLUA","FRESH CREAM","2xICE CUBES"]
+      },
+      {
+      "name" : "GIMLET",
+      "img" : "gimlet",
+      "alcohol" : ["GIN"],
+      "others" : ["LIME JUICE","SPLASH SODA"]
+      },
+      {
+      "name" : "ALEXANDER",
+      "img" : "alexander",
+      "alcohol" : ["GIN","BRANDY"],
+      "others" : ["CREME DE CACAO","FRESH CREAM"]
+      },
+      {
+      "name" : "DAIQUIRI",
+      "img" : "daiquiri",
+      "alcohol" : ["WHITE RUM"],
+      "others" : ["LIME JUICE","TSP BROWN SUGAR"]
+      }
+   ]
+}
